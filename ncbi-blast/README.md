@@ -10,6 +10,9 @@ a data volume
 	$ sudo docker build -t blast .
 
 
+Run NCBI-Blast Container
+------------------------
+
 Run the following command line to test blast with built-in nr database.
 
 
