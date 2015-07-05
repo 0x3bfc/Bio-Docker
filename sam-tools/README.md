@@ -4,7 +4,7 @@ Build SAM-Tools Image
 
 	$ sudo docker build -t samtools .
 
-or simply pull samtools docker image:
+Or simply pull samtools docker image:
 
         $ sudo docker pull ahmedabd/biodocker:samtools
 
